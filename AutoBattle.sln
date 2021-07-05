@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebTransport", "SimpleWebTransport.csproj", "{c37a760c-f375-29b7-f562-8999ed7dcc90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror", "Mirror.csproj", "{062bee60-4043-41f1-0565-a6fa739a2518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telepathy", "Telepathy.csproj", "{de7d9703-425f-7d2a-e114-7122a90afa9d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Components", "Mirror.Components.csproj", "{a6105fc0-df9a-203c-7718-365c808c91d0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples", "Mirror.Examples.csproj", "{5c6f9369-72ca-009f-4eac-61d00d7f48bb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kcp2k", "kcp2k.csproj", "{7738a376-3476-10a2-b167-3af9eca5d200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Authenticators", "Mirror.Authenticators.csproj", "{d8f49ad7-822d-3229-c0b9-5cb805576221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{a57c41aa-9ef6-f191-9ea4-6fa95ac2eef1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Weaver", "Mirror.Weaver.csproj", "{23da0682-5e6c-0aae-c30f-6913668d74c4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Editor", "Mirror.Editor.csproj", "{ea06640f-29e7-ecb1-8104-cb480b9a77d0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.CompilerSymbols", "Mirror.CompilerSymbols.csproj", "{bc775b26-204d-3474-0e83-922a0f735546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrelSync", "ParrelSync.csproj", "{0a600bed-2f92-5f76-8870-af9b4312bbc3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{c37a760c-f375-29b7-f562-8999ed7dcc90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c37a760c-f375-29b7-f562-8999ed7dcc90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062bee60-4043-41f1-0565-a6fa739a2518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062bee60-4043-41f1-0565-a6fa739a2518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{de7d9703-425f-7d2a-e114-7122a90afa9d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{de7d9703-425f-7d2a-e114-7122a90afa9d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a6105fc0-df9a-203c-7718-365c808c91d0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a6105fc0-df9a-203c-7718-365c808c91d0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5c6f9369-72ca-009f-4eac-61d00d7f48bb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5c6f9369-72ca-009f-4eac-61d00d7f48bb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7738a376-3476-10a2-b167-3af9eca5d200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7738a376-3476-10a2-b167-3af9eca5d200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d8f49ad7-822d-3229-c0b9-5cb805576221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d8f49ad7-822d-3229-c0b9-5cb805576221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a57c41aa-9ef6-f191-9ea4-6fa95ac2eef1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a57c41aa-9ef6-f191-9ea4-6fa95ac2eef1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23da0682-5e6c-0aae-c30f-6913668d74c4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23da0682-5e6c-0aae-c30f-6913668d74c4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ea06640f-29e7-ecb1-8104-cb480b9a77d0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ea06640f-29e7-ecb1-8104-cb480b9a77d0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bc775b26-204d-3474-0e83-922a0f735546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bc775b26-204d-3474-0e83-922a0f735546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0a600bed-2f92-5f76-8870-af9b4312bbc3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0a600bed-2f92-5f76-8870-af9b4312bbc3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
